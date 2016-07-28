@@ -9,4 +9,5 @@ from PIL import Image
 
 bogen1 = Image.open('boegen/Bogen1.jpg')
 bogen1.show()
+print("test")
 #bogen1.save()
