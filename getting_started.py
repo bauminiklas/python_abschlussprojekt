@@ -7,6 +7,6 @@ Created on Wed Jul 20 15:54:43 2016
 
 from PIL import Image
 
-bogen1 = Image.open('Bogen1.jpg')
+bogen1 = Image.open('boegen/Bogen1.jpg')
 bogen1.show()
 #bogen1.save()
